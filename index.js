@@ -3,6 +3,7 @@ function mostrarDatosContacto() {
     if (datosContacto.style.display === "none") {
         datosContacto.style.display = "block";
     } else {
+        //hola
         datosContacto.style.display = "none";
     }
 }
